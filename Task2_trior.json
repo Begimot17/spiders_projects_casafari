@@ -1,0 +1,1308 @@
+{
+    "source": {
+        "urls": [
+            {
+                "_comment": "Alaró",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Alaró}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Alcúdia",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Alcúdia}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Algaida",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Algaida}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Andratx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Andratx}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Arenal",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Arenal}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Ariany",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Ariany}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Artà",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Artà}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Banyalbufar",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Banyalbufar}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Binissalem",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Binissalem}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Bunyola",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Bunyola}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Caimari",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Caimari}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Cala D\\'or",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Cala D\\'or}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Calvià",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Calvià}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Campos",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Campos}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Colònia de Sant Jordi",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Colònia de Sant Jordi}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Costitx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Costitx}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "El Toro",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=El Toro}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380,
+                        10934
+                    ]
+                }
+            },
+            {
+                "_comment": "Esporles",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Esporles}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Felanitx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Felanitx}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Inca",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Inca}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Lloseta",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Lloseta}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Llucmajor",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Llucmajor}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Manacor",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Manacor}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Marratxí",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Marratxí}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Montuïri",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Montuïri}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Muro",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Muro}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "PALMA DE MALLORCA",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=PALMA DE MALLORCA}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Petra",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Petra}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Pollença",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Pollença}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Pont d\\'Inca",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Pont d\\'Inca}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Porreres",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Porreres}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Portocolom",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Portocolom}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Puigpunyent",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Puigpunyent}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sa Pobla",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sa Pobla}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sant Joan",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sant Joan}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sant Llorenç des Cardassar",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sant Llorenç des Cardassar}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Eugènia",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Santa Eugènia}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        10929,
+                        10162,
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Margalida",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Santa Margalida}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Maria del Cami",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Santa Maria del Cami}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santanyí",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Santanyí}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sóller",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sóller}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Selva",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Selva}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sencelles",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sencelles}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sineu",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Sineu}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Son Serra De Marina",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Son Serra De Marina}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Son Servera",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Son Servera}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Valldemossa",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Valldemossa}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Vilafranca de Bonany",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=1&ciudad=Vilafranca de Bonany}",
+                "meta": {
+                    "type": "sale_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Alaró",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Alaró}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Alcúdia",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Alcúdia}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Algaida",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Algaida}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Andratx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Andratx}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Arenal",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Arenal}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Ariany",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Ariany}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Artà",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Artà}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Banyalbufar",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Banyalbufar}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Binissalem",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Binissalem}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Bunyola",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Bunyola}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Caimari",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Caimari}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Cala D\\'or",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Cala D\\'or}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Calvià",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Calvià}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Campos",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Campos}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Colònia de Sant Jordi",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Colònia de Sant Jordi}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Costitx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Costitx}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "El Toro",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=El Toro}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380,
+                        10934
+                    ]
+                }
+            },
+            {
+                "_comment": "Esporles",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Esporles}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Felanitx",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Felanitx}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Inca",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Inca}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Lloseta",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Lloseta}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Llucmajor",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Llucmajor}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Manacor",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Manacor}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Marratxí",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Marratxí}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Montuïri",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Montuïri}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Muro",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Muro}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "PALMA DE MALLORCA",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=PALMA DE MALLORCA}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Petra",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Petra}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Pollença",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Pollença}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Pont d\\'Inca",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Pont d\\'Inca}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Porreres",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Porreres}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Portocolom",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Portocolom}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Puigpunyent",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Puigpunyent}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sa Pobla",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sa Pobla}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sant Joan",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sant Joan}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sant Llorenç des Cardassar",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sant Llorenç des Cardassar}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Eugènia",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Santa Eugènia}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        10929,
+                        10162,
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Margalida",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Santa Margalida}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santa Maria del Cami",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Santa Maria del Cami}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Santanyí",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Santanyí}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sóller",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sóller}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Selva",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Selva}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sencelles",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sencelles}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Sineu",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Sineu}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Son Serra De Marina",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Son Serra De Marina}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Son Servera",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Son Servera}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Valldemossa",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Valldemossa}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            },
+            {
+                "_comment": "Vilafranca de Bonany",
+                "url": "https://inmovisa.com/comprar-inmueble/?page=[INDEX]&tipo_venta=2&ciudad=Vilafranca de Bonany}",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        313380
+                    ]
+                }
+            }
+        ],
+        "index_type": "page",
+        "index_start": "1",
+        "links": {
+            "method": "multiple",
+            "selector": "li.inmueble a",
+            "item": {
+                "key": "link",
+                "retrieve": {
+                    "method": "attribute:href"
+                }
+            }
+        },
+        "blocks": {
+            "method": "multiple",
+            "selector": "div.inmueble-wrapper a",
+            "item": {
+                "key": "block",
+                "retrieve": {
+                    "method": "outertext"
+                }
+            }
+        }
+    },
+    "source_item": {
+        "estate": [
+            {
+                "method": "single",
+                "selector": "body.single-inmueble",
+                "item": {
+                    "key": "_uid_s",
+                    "retrieve": {
+                        "method": "attribute:class",
+                        "expression": [
+                            "/postid-(\\d+)/",
+                            [
+                                1
+                            ],
+                            ""
+                        ]
+                    }
+                }
+            },
+            {
+                "source": "block",
+                "method": "single",
+                "selector": "a",
+                "item": {
+                    "key": "_uid_b",
+                    "retrieve": {
+                        "method": "attribute:href",
+                        "expression": [
+                            "/inmueble/(\\d*)/",
+                            [
+                                1
+                            ],
+                            ""
+                        ]
+                    }
+                }
+            },
+            {
+                "source": "deps_left",
+                "deps": "_uid_s, _uid_b",
+                "item": {
+                    "key": "uid",
+                    "retrieve": {
+                        "method": "string"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "input[name='field-referencia']",
+                "item": {
+                    "key": "_ref_s",
+                    "retrieve": {
+                        "method": "attribute:value"
+                    }
+                }
+            },
+            {
+                "source": "block",
+                "method": "single",
+                "selector": "div.referencia",
+                "item": {
+                    "key": "_ref_b",
+                    "retrieve": {
+                        "method": "plaintext",
+                        "expression": [
+                            "/https://www.algarve-retreats.com",
+                            [
+                                1
+                            ],
+                            ""
+                        ]
+                    }
+                }
+            },
+            {
+                "source": "deps_left",
+                "deps": "_ref_s, _ref_b",
+                "item": {
+                    "key": "ref",
+                    "retrieve": {
+                        "method": "string"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Zona')+dd",
+                "item": {
+                    "key": "location",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "div.cabecera h1",
+                "item": {
+                    "key": "_title_s",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "source": "block",
+                "method": "single",
+                "selector": "div.cabecera h3",
+                "item": {
+                    "key": "_title_b",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "source": "deps_left",
+                "deps": "_title_s, _title_b",
+                "item": {
+                    "key": "title",
+                    "retrieve": {
+                        "method": "string"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "li.habitaciones",
+                "item": {
+                    "key": "rooms",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Habitaciones')+dd",
+                "item": {
+                    "key": "bedrooms",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Baños')+dd",
+                "item": {
+                    "key": "bathrooms",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Superficie construida')+dd",
+                "item": {
+                    "key": "total_area",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Superficie útil')+dd",
+                "item": {
+                    "key": "living_area",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "li.precio",
+                "item": {
+                    "key": "_price_s",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "source": "block",
+                "method": "single",
+                "selector": "li.precio",
+                "item": {
+                    "key": "_price_b",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "source": "deps_left",
+                "deps": "_price_s, _price_b",
+                "item": {
+                    "key": "price",
+                    "retrieve": {
+                        "method": "string"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "li.precio",
+                "item": {
+                    "key": "rent_price",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "multiple",
+                "selector": "div.html",
+                "multi_join": "; ",
+                "item": {
+                    "key": "description",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Antigüedad')+dd",
+                "item": {
+                    "key": "construction_year",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "multiple",
+                "multi_join": "; ",
+                "selector": "div.caracteristicas li",
+                "item": {
+                    "key": "features",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "dt:contains('Conservación')+dd",
+                "item": {
+                    "key": "condition",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "table.clasificacion-energetica tr:has(th+td:has(span)) th",
+                "item": {
+                    "key": "energy_rating",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "div.mapa",
+                "item": {
+                    "key": "latitude",
+                    "retrieve": {
+                        "method": "attribute:data-latitud"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "div.mapa",
+                "item": {
+                    "key": "longitude",
+                    "retrieve": {
+                        "method": "attribute:data-longitud"
+                    }
+                }
+            },
+            {
+                "method": "multiple",
+                "multi_join": "; ",
+                "selector": "div.contacto-telefono a[href*='tel']",
+                "item": {
+                    "key": "_phone",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            }
+        ],
+        "photo": {
+            "photos": {
+                "method": "multiple",
+                "selector": "div.imagen a",
+                "item": {
+                    "key": "photo",
+                    "retrieve": {
+                        "method": "attribute:href"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "source": {
+        "urls": [
+
+            {
+                "url": "https://www.algarve-retreats.com/rent/search",
+                "meta": {
+                    "type": "rent_strict",
+                    "location_ids": [
+                        1597
+                    ]
+                }
+            }
+        ],
+        "index_type": "page",
+        "index_start": "1",
+        "links": {
+            "method": "multiple",
+            "selector": "div.article h3 a",
+            "item": {
+                "key": "link",
+                "retrieve": {
+                    "method": "attribute:href"
+                }
+            }
+        }
+    },
+    "source_item": {
+        "estate": [],
+        "photo": {
+            "photos": {
+                "method": "multiple",
+                "selector": "div.owl-carousel div.item img",
+                "item": {
+                    "key": "photo",
+                    "retrieve": {
+                        "method": "attribute:src"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "source": {
+        "urls": [
+            {
+                "pre_request" :{
+                    "url": "https://www.montaury-immobilier.com/recherche/",
+                    "post": "data%5BSearch%5D%5Boffredem%5D=0"
+                    },
+                "url": "https://www.montaury-immobilier.com/recherche/[INDEX]",
+                "meta": {
+                   "type": "sale_strict",
+                   "location_ids": [ ]
+                }
+            },
+            {
+                "pre_request" :{
+                    "url": "https://www.montaury-immobilier.com/recherche/",
+                    "post": "data%5BSearch%5D%5Boffredem%5D=2"
+                    },
+                "url": "https://www.montaury-immobilier.com/recherche/[INDEX]",
+                "meta": {
+                   "type": "rent_strict",
+                   "location_ids": [ ]
+                }
+            }
+        ],
+        "index_type": "page",
+        "index_start": "1",
+        "links": {
+            "method": "multiple",
+            "selector": "div.articleBienImg img",
+            "item": {
+                "key": "link",
+                "retrieve": {
+                    "method": "attribute:data-url"
+
+                }
+            }
+        }
+    },
+    "source_item": {
+        "estate": [
+
+        ],
+        "photo": {
+            "photos": {
+                "method": "multiple",
+                "selector": "div.owl-carousel div.item img",
+                "item": {
+                    "key": "photo",
+                    "retrieve": {
+                        "method": "attribute:src"
+                    }
+                }
+            }
+        }
+    }
+}

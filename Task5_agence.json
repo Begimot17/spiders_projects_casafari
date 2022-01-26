@@ -1,0 +1,141 @@
+{
+    "source": {
+        "urls": [
+            {
+                "url": "http://www.agencemasvermeil.fr/immo/c/front/search/pk/13/mode/1/?immo[type]=sell&immo[typeEstate]=1213&immo[page]=[INDEX]",
+                "meta": {
+                    "type": "mixed",
+                    "location_ids": [
+                        460841
+                    ]
+                }
+            }
+        ],
+        "index_type": "page",
+        "index_start": "0",
+        "links": {
+            "method": "multiple",
+            "selector": "div.row a.immoListPhotoLink",
+            "item": {
+                "key": "link",
+                "retrieve": {
+                    "method": "attribute:href",
+                    "prefix": "http://www.agencemasvermeil.fr"
+                }
+            }
+        }
+    },
+    "ocr": {
+        "pipeline": [
+            {
+                "action": "crop",
+                "params": [
+                    350,
+                    60,
+                    210,
+                    525
+                ]
+            }
+        ],
+        "mapping": [
+            {
+                "a": "VENDU",
+                "b": "sold"
+            },
+            {
+                "a": "SOUS OFFRE",
+                "b": "reserved"
+            }
+        ]
+    },
+    "source_item": {
+        "estate": [
+            {
+                "method": "single",
+                "selector": "body.single-inmueble",
+                "item": {
+                    "key": "uid",
+                    "retrieve": {
+                        "method": "attribute:class"
+                    }
+                }
+            },
+            {
+                "method": "batch",
+                "selector": "div.inner",
+                "key_submask": "span.immoAttributeLabel",
+                "value_submask": "span.immoAttributeValue",
+                "key_item": {
+                    "key": "data",
+                    "retrieve": {
+                        "method": "plaintext",
+                        "unicode_filter": [
+                            "Zs"
+                        ]
+                    }
+                },
+                "mapping": [
+                    {
+                        "dom_key": "Année de construction",
+                        "item": {
+                            "key": "construction_year",
+                            "retrieve": {
+                                "method": "plaintext"
+                            }
+                        }
+                    },
+                    {
+                        "dom_key": "Surface terrain",
+                        "item": {
+                            "key": "total_area",
+                            "retrieve": {
+                                "method": "plaintext"
+                            }
+                        }
+                    },
+                    {
+                        "dom_key": "Surface habitable",
+                        "item": {
+                            "key": "living_area",
+                            "retrieve": {
+                                "method": "plaintext"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "method": "single",
+                "selector": "div.row > div.col > a > img.responsive",
+                "item": {
+                    "key": "_status_image",
+                    "retrieve": {
+                        "method": "attribute:src"
+                    }
+                }
+            },
+            {
+                "method": "single",
+                "selector": "span#immoAttributeRef",
+                "item": {
+                    "key": "ref",
+                    "retrieve": {
+                        "method": "plaintext"
+                    }
+                }
+            }
+        ],
+        "photo": {
+            "photos": {
+                "method": "multiple",
+                "selector": "div.imagen a",
+                "item": {
+                    "key": "photo",
+                    "retrieve": {
+                        "method": "attribute:href"
+                    }
+                }
+            }
+        }
+    }
+}
